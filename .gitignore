@@ -1,0 +1,39 @@
+# Diretórios de build/distribuição
+/build/
+/dist/
+/out/
+
+# Node.js / NPM / Yarn
+/node_modules/
+
+# Arquivos de configuração local
+.env
+.env.local
+
+# Logs e arquivos temporários
+/logs/
+.cache/
+.tmp/
+temp/
+
+# Arquivos de IDE
+.vscode/
+# .gitignore para projeto Java Spring
+
+# Diretório de build
+/target/
+
+# Arquivos de configuração local
+.env
+application-local.properties
+
+# Logs e arquivos temporários
+/logs/
+*.log
+
+# Arquivos de IDE
+.idea/
+.classpath
+.project
+.settings/
+
